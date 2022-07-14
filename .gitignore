@@ -2,3 +2,5 @@ papers/
 Presentation/
 calcolo_rt_italia/
 .ipynb_checkpoints/
+env/
+notebook/.ipynb_checkpoints
